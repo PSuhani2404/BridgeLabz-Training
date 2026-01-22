@@ -675,7 +675,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-prac
  - Designed real-world OOP systems
 
  🔗 *Code Link*
-👉 **Scenario-Based OOP Implementations**
+
 
 --
 
@@ -768,7 +768,7 @@ Continuous rotation without null checks
 - Real-world problem modeling in Java
 
 🔗 *Code Link*
-👉 **Scenario-Based DSA Implementations**
+
 
 --
 
@@ -838,4 +838,220 @@ Continuous rotation without null checks
 **Purpose:** Academic practice and Data Structure concept clarity
 
 🔗 *Code Link*
+
+
+## 📅 Day 8 – Scenario-Based Data Structures
+
+**(Date: 14-01-2026)**
+
+## Real-world problems using core Data Structures.
+## Problems Implemented
+---
+### 1. HospitalQueue – Patient Sorting by Criticality
+Algorithm: Bubble Sort
+ - Patients sorted by criticality before bed assignment
+ - Small dataset allows simple in-place sorting
+ - Adjacent patient records swapped
+ - 
+### 2. SmartShelf – Real-Time Book Arrangement
+Algorithm: Insertion Sort
+ - Books added one at a time and kept alphabetically sorted
+ - Works efficiently on mostly sorted data
+ - Stable sorting preserves order
+ - 
+### 3. ZipZipMart – Daily Sales Summary
+Algorithm: Merge Sort
+ - Large volume of sales records from multiple branches
+ - Divide-and-conquer approach ensures efficiency
+ - Maintains stability for equal records
+
+### 4. RoboWarehouse – Shelf Loading Robot
+Algorithm: Insertion Sort
+ - Packages inserted dynamically by weight
+ - Maintains sorted order continuously
+ - Uses minimal extra memory
+
+### 5. CinemaHouse – Movie Time Sorting
+Algorithm: Bubble Sort
+ - Small number of daily shows
+ - Easy to implement and maintain
+ - Suitable for manual updates
+
+### 6. CropMonitor – Sensor Data Ordering
+Algorithm: Quick Sort
+ - Large unordered sensor data sorted by timestamp
+ - Fast average-case performance
+ - Efficient partition-based sorting
+
+**Key Concepts**
+ - Scenario-based algorithm selection
+ - Time–space trade-offs
+ - Stable and in-place sorting
+
+**Language: Java**
+**Purpose: Sorting algorithm practice and clarity**
+
+🔗 *Code Link*
 👉 **Scenario-Based DSA Implementations**
+[(https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAScenariobased/src/com/day4)]
+[(https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAScenariobased/src/com/day5)]
+
+--
+
+**(Date: 17-01-2026)**
+
+## 📘 Scenario-Based Problems – Java (OOP + Sorting Algorithms)
+
+**real-world, scenario-based Java problems** designed to strengthen understanding of **Object-Oriented Programming concepts** and **core sorting algorithms**.
+---
+## 🧩 OOP Concepts – Scenario-Based Problems
+
+### 1. GeoMeasure Solutions – Line Comparison System
+**OOP Concepts:** Classes, Objects, Constructors, Encapsulation, Methods, `this` keyword
+* Accepts coordinates of two line segments
+* Calculates length using a method
+* Compares line lengths (equal / longer / shorter)
+* Encapsulates line data using private fields
+* Initializes objects using constructors
+* *(Bonus)* Stores multiple line comparisons using a list
+  
+---
+
+### 2. Bag-n-Ball Organizer
+**OOP Concepts:** Classes, Objects, Encapsulation, Composition (Has-a relationship)
+* Bag has ID, color, capacity
+* Ball has ID, color, size
+* Add balls to bag (up to capacity)
+* Remove balls from bag
+* Display balls in a bag
+* Display all bags with ball count
+* Prevent overflow when bag is full
+* *(Bonus)* Interface-based design using `Storable`
+---
+## 🔁 Sorting Algorithms – Real-World Scenarios
+
+### 3. IceCreamRush – Sorting Flavors by Popularity
+**Algorithm:** Bubble Sort
+* Small dataset (≈8 flavors)
+* Repeated adjacent comparisons
+* Simple in-place sorting
+---
+### 4. SmartLibrary – Auto-Sort Borrowed Books
+**Algorithm:** Insertion Sort
+* Books inserted one at a time
+* Alphabetical ordering by title
+* Efficient for nearly sorted lists
+---
+### 5. ArtExpo – Sort Artists by Registration Time
+**Algorithm:** Insertion Sort
+* Continuous real-time registration
+* Maintains sorted order by time
+* Best for incremental data
+---
+### 6. FleetManager – Vehicle Maintenance Scheduler
+**Algorithm:** Merge Sort
+* Depot-wise sorted vehicle lists
+* Merges into a master schedule
+* Efficient for large datasets
+---
+## 🧠 Key Learning Outcomes
+* Practical application of OOP principles
+* Scenario-based algorithm selection
+* Understanding time and space trade-offs
+* Stable vs unstable sorting
+* In-place vs memory-intensive algorithms
+
+---
+
+**Language:** Java
+**Focus:** Clean design, real-world modeling, algorithm clarity
+
+🔗 **Code Link -** 
+
+
+--
+
+📅 **Day 11 – Real time-Scenario-Based Data Structures**
+
+**(Date: 19-01-2026)**
+
+## Problems Implemented
+## 1. EduResults – Rank Sheet Generator
+**Algorithm: Merge Sort**
+ - Merges district-wise sorted student lists
+ - Efficient for large datasets
+ - Stable sorting for equal scores
+
+--
+
+## 2. FlashDealz – Product Sorting by Discount
+**Algorithm: Quick Sort**
+ - Handles large, unsorted product data
+ - Fast average-case performance
+ - In-place sorting for efficiency
+
+--
+
+## 3. FitnessTracker – Daily Step Count Ranking
+**Algorithm: Bubble Sort**
+ - Small user group
+ - Frequent real-time updates
+ - Simple adjacent swaps
+
+*Key Concepts*
+ - Scenario-based algorithm choice
+ - Performance vs simplicity
+ - Stable and in-place sorting
+
+**Language: Java**
+
+🔗 **Code Link -**
+
+--
+
+## 📅 Day 12 – Scenario-Based Sorting Applications  
+**(Date: 20-Jan-2026)**
+
+🎬 **MovieTime – Theater Show Listings (Insertion Sort)**
+- Nearly sorted showtimes with real-time insertion  
+- Insertion Sort for efficient time-based ordering  
+
+🍔 **FoodFest – Stall Footfall Analysis (Merge Sort)**
+- Zone-wise sorted footfall data merged  
+- Merge Sort ensures stability and accuracy  
+
+🎮 **GamerZone – High Score Ranking System (Quick Sort)**
+- Large, dynamic, unsorted player scores  
+- Quick Sort for fast leaderboard updates  
+
+✅ *Learning Outcomes*
+- Matched sorting algorithms to real-world scenarios  
+- Understood performance trade-offs in dynamic data
+  
+🔗 **Code Link -**
+
+--
+
+## 📅 Day 21 – Scenario-Based Sorting Applications
+
+**(Date: 21-Jan-2026)**
+
+👗 **TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)**
+ - New clothing orders received hourly with deadlines
+ - Maintains a nearly sorted list; inserts new orders in correct position
+ - Insertion Sort enables real-time updates and deadline-based sorting
+
+💊 **MedWarehouse – Sorting Medicines by Expiry (Merge Sort)**
+ - Handles medicine records from multiple branches, each already sorted by expiry
+ - Uses Merge Sort to compile all expiry dates into a master list
+ - Ensures critical medicines nearing expiration are flagged promptly
+
+✅ *Learning Outcomes*
+ - Applied Insertion Sort to dynamic, nearly sorted real-time data
+ - Applied Merge Sort to merge multiple sorted sublists efficiently
+ - Understood algorithm choices for time-sensitive and critical inventory management
+
+🔗 **Code Link -**
+[(https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAScenariobased/src/com/day9/tailorshop)]
+
+---
