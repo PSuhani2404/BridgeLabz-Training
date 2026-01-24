@@ -7,7 +7,7 @@ public class OnlineMarketPlaceDemo
 
 	        Product<BookCategory> book =new Product<>("Java Programming", 500.0, new BookCategory());
 
-	        Product<ClothingCategory> shirt = new Product<>("Frock", 800.0, new ClothingCategory());
+	        Product<ClothingCategory> shirt = new Product<>("T-shirt", 800.0, new ClothingCategory());
 
 	        Product<GadgetCategory> phone = new Product<>("Smartphone", 25000.0, new GadgetCategory());
 
