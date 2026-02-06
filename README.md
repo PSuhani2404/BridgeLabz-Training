@@ -117,12 +117,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods
 
 ---
-
-## Week 2: Core Java Fundamentals and Object Oriented Programming
-
----
-
-## 📅 Day 1 – Java Strings  
+## 📅 Day 7 – Java Strings  
 **(Date: 22-Dec-2025)**
 
 - Learned:
@@ -138,7 +133,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
 
 ---
-## 📅 Day 2 – EXTRAS: Built‑in Functions & Java String Handling  
+## 📅 Day 8 – EXTRAS: Built‑in Functions & Java String Handling  
 **(Date: 23-Dec-2025)**
 
 - Practiced:
@@ -154,7 +149,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras
 
 ---
-## 📅 Day 3 – Scenario‑Based Java Problems  
+## 📅 Day 9 – Scenario‑Based Java Problems  
 **(Date: 24-Dec-2025)**
 
 - Worked on real‑world Java problems applying:
@@ -181,7 +176,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day1
 
 ---
-## 📅 Day 4 – Core Java Scenario-Based Programs + OOP Kickoff  
+## 📅 Day 10 – Core Java Scenario-Based Programs + OOP Kickoff  
 **(Date: 26-Dec-2025)**
 
 - Continued working on **advanced scenario-based Core Java problems**.
@@ -194,7 +189,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/sc
   - Clean-code formatting, indentation & meaningful comments
 
 ---
-### 🧩 Object-Oriented Programming — Getting Started
+## Week 2: Object-Oriented Programming — Getting Started
 
 - Studied learning material:
   - **01 – Object-Oriented Programming Fundamentals**
@@ -226,7 +221,7 @@ Branch created: java-oops-practice
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice
 
 ---
-## 📅 Day 5 – OOP Concepts: Constructors, Variables & Access Modifiers  
+## 📅 Day 1 – OOP Concepts: Constructors, Variables & Access Modifiers  
 **(Date: 27-Dec-2025)**
 
 - Continued learning **Object-Oriented Programming concepts**.
@@ -247,13 +242,9 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice
 
 **🔗 Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1
-
---- 
-## Week 3: Object Oriented Programming and Data Structures and Algorithms
-
 ---
 
-## 📅 Day 1 – Core Java Scenario‑Based Problems + OOP Keywords Practice  
+## 📅 Day 2 – Core Java Scenario‑Based Problems + OOP Keywords Practice  
 **(Date: 29-Dec-2025)**
 
 - Continued solving **Core Java real‑world scenario‑based problems**.
@@ -282,7 +273,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction
 
 ---
-## 📅 Day 2 – Object Modeling & Core Java Scenario-Based Problems  
+## 📅 Day 3 – Object Modeling & Core Java Scenario-Based Problems  
 **(Date: 30-Dec-2025)**
 
 - Continued practicing **Core Java scenario-based programs**.
@@ -314,7 +305,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling
 
 ---
-## 📅 Day 3 – Inheritance + Advanced Scenario-Based Problems  
+## 📅 Day 4 – Inheritance + Advanced Scenario-Based Problems  
 **(Date: 31-Dec-2025)**
 
 - Practiced real-world scenario programs with:
@@ -347,7 +338,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 
 ---
 
-## 📅 Day 4 – Encapsulation, Interface, Abstract Class & Polymorphism  
+## 📅 Day 5 – Encapsulation, Interface, Abstract Class & Polymorphism  
 **(Date: 01-Jan-2026)**
 
 - Studied structured guide on:
@@ -376,7 +367,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation
 
 ---
-## 📅 Day 5 – OOP Scenario-Based Projects + LinkedList Introduction  
+## 📅 Day 6 – OOP Scenario-Based Projects + LinkedList Introduction  
 **(Date: 02-Jan-2026)**
 
 - Continued working on **real-world OOP scenario-based problem design**
@@ -412,7 +403,7 @@ Also practiced:
 
 ---
 
-### 🧮 Data Structures — LinkedList (Introduction)
+## Week 2: Data Structures — LinkedList (Introduction)
 
 - Studied material:
   - **01 – Data Structure Introduction and LinkedList**
@@ -430,7 +421,7 @@ Worked on:
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlist
 
 ---
-## 📅 Day 6 – Advanced OOP Scenarios + Stack / Queue / HashMap  
+## 📅 Day 1 – Advanced OOP Scenarios + Stack / Queue / HashMap  
 **(Date: 03-Jan-2026)**
 
 - Continued hands‑on system‑design oriented OOP practice
@@ -484,11 +475,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-prac
 
 ---
 
-# 🟢 Week 4 — Continued OOP System Design & DSA Foundations
-
----
-
-## 📅 Day 18 – CampusConnect & SwiftCart OOP Systems + Sorting Algorithms  
+## 📅 Day 2 – CampusConnect & SwiftCart OOP Systems + Sorting Algorithms  
 **(Date: 05-Jan-2026)**
 
 - Continued working on **enterprise-style real‑world OOP scenario modules**
@@ -547,7 +534,7 @@ Hands‑on practice included:
 **🔗 Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sortingalgorithm
 
- ##📅 Day 18 – String Handling, I/O Streams & Searching Basics
+ ##📅 Day 3 – String Handling, I/O Streams & Searching Basics
 **(Date: 06-Jan-2026)**
 
 
@@ -586,7 +573,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-prac
 
 --
 
-## 📅 Day 19 – Algorithm Runtime Analysis & OOP Scenario-Based Programs
+## 📅 Day 4 – Algorithm Runtime Analysis & OOP Scenario-Based Programs
 
 **(Date: 07-Jan-2026)**
 
@@ -621,7 +608,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-prac
 
 ---
 
-## Day 20 – Scenario-Based Design & OOP Case Studies
+## Day 5 – Scenario-Based Design & OOP Case Studies
 
 **(Date: 08-Jan-2026)**
 
@@ -640,7 +627,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-prac
 
 --
 
- ## 📅 Day 21 – Scenario-Based OOP Applications
+ ## Day 6 – Scenario-Based OOP Applications
 
 **(Date: 09-Jan-2026)**
 
@@ -679,7 +666,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-prac
 
 --
 
-## 📅 Day 22 – Scenario-Based Data Structures
+## 📅 Day 7 – Scenario-Based Data Structures
 
 **(Date: 10-01-2026)**
 
@@ -730,7 +717,7 @@ Continuous rotation without null checks
 
 ---
 
-## 📅 Day 7 – Scenario-Based Data Structures
+## 📅 Day 8– Scenario-Based Data Structures
 
 **(Date: 12-01-2026)**
 
@@ -772,7 +759,7 @@ Continuous rotation without null checks
 
 --
 
-## 📅 Day 8 – Scenario-Based Data Structures
+## 📅 Day 9 – Scenario-Based Data Structures
 
 **(Date: 13-01-2026)**
 
@@ -840,7 +827,7 @@ Continuous rotation without null checks
 🔗 *Code Link*
 
 
-## 📅 Day 8 – Scenario-Based Data Structures
+## 📅 Day 10 – Scenario-Based Data Structures
 
 **(Date: 14-01-2026)**
 
@@ -1032,7 +1019,7 @@ Algorithm: Quick Sort
 
 --
 
-## 📅 Day 21 – Scenario-Based Sorting Applications
+## 📅 Day 13 – Scenario-Based Sorting Applications
 
 **(Date: 21-Jan-2026)**
 
